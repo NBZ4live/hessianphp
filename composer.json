@@ -1,0 +1,22 @@
+{
+    "name": "nbz4live/hessianphp",
+    "description": "Library that implements the Hessian binary web services protocol",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manuel Gómez",
+            "email": "vegeta.ec@gmail.com"
+        },
+        {
+            "name": "Sergey Fayngold",
+            "email": "sergey@faynhost.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "autoload-dev": {
+        "classmap": ["unit_tests/"]
+    }
+}
